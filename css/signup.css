@@ -296,6 +296,9 @@ form{
     padding-left: 2px;
     padding-right: 2px;
     font-size: 16px;
+    -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
 }
 
 
@@ -719,6 +722,9 @@ form{
         padding-left: 2px;
         padding-right: 2px;
         font-size: 16px;
+        -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
     }
     
     
@@ -1122,6 +1128,9 @@ form{
         padding-left: 2px;
         padding-right: 2px;
         font-size: 16px;
+        -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
     }
     
     
